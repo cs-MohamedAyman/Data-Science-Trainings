@@ -1,4 +1,4 @@
-<a href="/README.md"><img align="right" width="100" src="/repos-logos/data-science-department.png"></img></a>
+<a href="/README.md"><img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-science-department.png"></img></a>
 <br>
 
 # Data Science Trainings
@@ -7,14 +7,14 @@
     <tbody>
         <tr>
 <td align="center"><a href="/Data-Science-and-Business-Analytics/README.md">Data Science and Business Analytics Training</a><br><br>
-<a href="/Data-Science-and-Business-Analytics/README.md"><img align="center" width="80" src="/repos-logos/business-analytics.png"></img></a>
-<a href="/Data-Science-and-Business-Analytics/README.md"><img align="center" width="80" src="/repos-logos/computer-modeling.png"></img></a>
-<a href="/Data-Science-and-Business-Analytics/README.md"><img align="center" width="80" src="/repos-logos/data-science.png"></img></a>
+<a href="/Data-Science-and-Business-Analytics/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/business-analytics.png"></img></a>
+<a href="/Data-Science-and-Business-Analytics/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-modeling.png"></img></a>
+<a href="/Data-Science-and-Business-Analytics/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-science.png"></img></a>
 </td>
 <td align="center"><a href="/Data-Analysis-and-Visualization/README.md">Data Analysis and Visualization Training</a><br><br>
-<a href="/Data-Analysis-and-Visualization/README.md"><img align="center" width="80" src="/repos-logos/data-analytics.png"></img></a>
-<a href="/Data-Analysis-and-Visualization/README.md"><img align="center" width="80" src="/repos-logos/data-visualization.png"></img></a>
-<a href="/Data-Analysis-and-Visualization/README.md"><img align="center" width="80" src="/repos-logos/data-analysis.png"></img></a>
+<a href="/Data-Analysis-and-Visualization/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-analytics.png"></img></a>
+<a href="/Data-Analysis-and-Visualization/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-visualization.png"></img></a>
+<a href="/Data-Analysis-and-Visualization/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-analysis.png"></img></a>
 </td>
         </tr>
     </tbody>
@@ -25,14 +25,14 @@
     <tbody>
         <tr>
 <td align="center"><a href="/Business-Intelligence-and-Data-Management/README.md">Business Intelligence and Data Management Training</a><br><br>
-<a href="/Business-Intelligence-and-Data-Management/README.md"><img align="center" width="80" src="/repos-logos/business-intelligence.png"></img></a>
-<a href="/Business-Intelligence-and-Data-Management/README.md"><img align="center" width="80" src="/repos-logos/data-management.png"></img></a>
-<a href="/Business-Intelligence-and-Data-Management/README.md"><img align="center" width="80" src="/repos-logos/data-modeling.png"></img></a>
+<a href="/Business-Intelligence-and-Data-Management/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/business-intelligence.png"></img></a>
+<a href="/Business-Intelligence-and-Data-Management/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-management.png"></img></a>
+<a href="/Business-Intelligence-and-Data-Management/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-modeling.png"></img></a>
 </td>
 <td align="center"><a href="/Data-Storage-and-Retrieval/README.md">Data Storage and Retrieval Training</a><br><br>
-<a href="/Data-Storage-and-Retrieval/README.md"><img align="center" width="80" src="/repos-logos/distributed-database.png"></img></a>
-<a href="/Data-Storage-and-Retrieval/README.md"><img align="center" width="80" src="/repos-logos/data-storage.png"></img></a>
-<a href="/Data-Storage-and-Retrieval/README.md"><img align="center" width="80" src="/repos-logos/file-organization.png"></img></a>
+<a href="/Data-Storage-and-Retrieval/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/distributed-database.png"></img></a>
+<a href="/Data-Storage-and-Retrieval/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-storage.png"></img></a>
+<a href="/Data-Storage-and-Retrieval/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/file-organization.png"></img></a>
 </td>
         </tr>
     </tbody>
@@ -43,14 +43,14 @@
     <tbody>
         <tr>
 <td align="center"><a href="/Continuous-Delivery-and-MLOps/README.md">Continuous Delivery and MLOps Training</a><br><br>
-<a href="/Continuous-Delivery-and-MLOps/README.md"><img align="center" width="80" src="/repos-logos/cloud-computing.png"></img></a>
-<a href="/Continuous-Delivery-and-MLOps/README.md"><img align="center" width="80" src="/repos-logos/mlops.png"></img></a>
-<a href="/Continuous-Delivery-and-MLOps/README.md"><img align="center" width="80" src="/repos-logos/systems-development-methodologies.png"></img></a>
+<a href="/Continuous-Delivery-and-MLOps/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cloud-computing.png"></img></a>
+<a href="/Continuous-Delivery-and-MLOps/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/mlops.png"></img></a>
+<a href="/Continuous-Delivery-and-MLOps/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/systems-development-methodologies.png"></img></a>
 </td>
 <td align="center"><a href="/Data-Engineering/README.md">Data Engineering Training</a><br><br>
-<a href="/Data-Engineering/README.md"><img align="center" width="80" src="/repos-logos/cloud-database.png"></img></a>
-<a href="/Data-Engineering/README.md"><img align="center" width="80" src="/repos-logos/data-governance.png"></img></a>
-<a href="/Data-Engineering/README.md"><img align="center" width="80" src="/repos-logos/data-engineering.png"></img></a>
+<a href="/Data-Engineering/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cloud-database.png"></img></a>
+<a href="/Data-Engineering/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-governance.png"></img></a>
+<a href="/Data-Engineering/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-engineering.png"></img></a>
 </td>
         </tr>
     </tbody>
@@ -61,9 +61,9 @@
     <tbody>
         <tr>
 <td colspan=2 align="center"><a href="/Big-Data-Analytics-and-Modeling/README.md">Big Data Analytics and Modeling Training</a><br><br>
-<a href="/Big-Data-Analytics-and-Modeling/README.md"><img align="center" width="80" src="/repos-logos/database-systems.png"></img></a>
-<a href="/Big-Data-Analytics-and-Modeling/README.md"><img align="center" width="80" src="/repos-logos/big-data-modeling.png"></img></a>
-<a href="/Big-Data-Analytics-and-Modeling/README.md"><img align="center" width="80" src="/repos-logos/big-data-analytics.png"></img></a>
+<a href="/Big-Data-Analytics-and-Modeling/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/database-systems.png"></img></a>
+<a href="/Big-Data-Analytics-and-Modeling/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/big-data-modeling.png"></img></a>
+<a href="/Big-Data-Analytics-and-Modeling/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/big-data-analytics.png"></img></a>
 </td>
         </tr>
     </tbody>
