@@ -19,8 +19,8 @@
         </tr>
     </tbody>
     <tbody>
-<td align="center"><a href="/Data-Science-and-Business-Analytics/README.md"><img src="/logos/1.png"></img></a></td>
-<td align="center"><a href="/Data-Analysis-and-Visualization/README.md"><img src="/logos/2.png"></img></a></td>
+<td align="center"><a href="/Data-Science-and-Business-Analytics/README.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/4-1.png"></img></a></td>
+<td align="center"><a href="/Data-Analysis-and-Visualization/README.md">    <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/4-2.png"></img></a></td>
     </tbody>
     <tbody>
         <tr>
@@ -37,8 +37,8 @@
         </tr>
     </tbody>
     <tbody>
-<td align="center"><a href="/Business-Intelligence-and-Data-Management/README.md"><img src="/logos/3.png"></img></a></td>
-<td align="center"><a href="/Data-Storage-and-Retrieval/README.md"><img src="/logos/4.png"></img></a></td>
+<td align="center"><a href="/Business-Intelligence-and-Data-Management/README.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/4-3.png"></img></a></td>
+<td align="center"><a href="/Data-Storage-and-Retrieval/README.md">               <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/4-4.png"></img></a></td>
     </tbody>
     <tbody>
         <tr>
@@ -55,8 +55,8 @@
         </tr>
     </tbody>
     <tbody>
-<td align="center"><a href="/Continuous-Delivery-and-MLOps/README.md"><img src="/logos/5.png"></img></a></td>
-<td align="center"><a href="/Data-Engineering/README.md"><img src="/logos/6.png"></img></a></td>
+<td align="center"><a href="/Continuous-Delivery-and-MLOps/README.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/4-5.png"></img></a></td>
+<td align="center"><a href="/Data-Engineering/README.md">             <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/4-6.png"></img></a></td>
     </tbody>
     <tbody>
         <tr>
@@ -68,7 +68,7 @@
         </tr>
     </tbody>
     <tbody>
-<td colspan= 2 align="center"><a href="/Big-Data-Analytics-and-Modeling/README.md"><img src="/logos/7.png" width="50%"></img></a></td>
+<td colspan= 2 align="center"><a href="/Big-Data-Analytics-and-Modeling/README.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/4-7.png" width="50%"></img></a></td>
     </tbody>
 </table>
 
