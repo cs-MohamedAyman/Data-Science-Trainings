@@ -44,7 +44,7 @@ Data Science and Business Analytics Training for computer science students.
         </tr>
 <td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.png"              width="80%"></img></td>
 <td align=center width="15%"><h3>15<br>Courses</h3></td>
-<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/codeacademy.png"          width="80%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udemy.png"                width="80%"></img></td>
 <td align=center width="15%"><h3>15<br>Courses</h3></td>
 <td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.png"             width="80%"></img></td>
 <td align=center width="15%"><h3>15<br>Courses</h3></td>
