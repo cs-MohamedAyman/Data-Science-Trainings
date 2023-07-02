@@ -1,7 +1,9 @@
-## Chapter 1:
+<h1>Cleaning Data in Python</h1>
+
+<h2>Chapter 1.1: Data Type Constraints</h2>
 
 <details>
-	<summary>(~46 slides)</summary>
+	<summary>(~16 slides)</summary>
 	<br>
 	<img src="chapter1/0001.png">
 	<img src="chapter1/0002.png">
@@ -19,6 +21,13 @@
 	<img src="chapter1/0014.png">
 	<img src="chapter1/0015.png">
 	<img src="chapter1/0016.png">
+</details>
+
+<h2>Chapter 1.2: Data Range Constraints</h2>
+
+<details>
+	<summary>(~10 slides)</summary>
+	<br>
 	<img src="chapter1/0017.png">
 	<img src="chapter1/0018.png">
 	<img src="chapter1/0019.png">
@@ -29,6 +38,13 @@
 	<img src="chapter1/0024.png">
 	<img src="chapter1/0025.png">
 	<img src="chapter1/0026.png">
+</details>
+
+<h2>Chapter 1.3: Uniqueness Constraints</h2>
+
+<details>
+	<summary>(~20 slides)</summary>
+	<br>
 	<img src="chapter1/0027.png">
 	<img src="chapter1/0028.png">
 	<img src="chapter1/0029.png">
