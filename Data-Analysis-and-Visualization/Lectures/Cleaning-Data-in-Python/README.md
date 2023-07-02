@@ -3,7 +3,7 @@
 <h2>Chapter 1.1: Data Type Constraints</h2>
 
 <details>
-	<summary>(~16 slides)</summary>
+	<summary>(16 slides)</summary>
 	<br>
 	<img src="chapter1/0001.png">
 	<img src="chapter1/0002.png">
@@ -26,7 +26,7 @@
 <h2>Chapter 1.2: Data Range Constraints</h2>
 
 <details>
-	<summary>(~10 slides)</summary>
+	<summary>(10 slides)</summary>
 	<br>
 	<img src="chapter1/0017.png">
 	<img src="chapter1/0018.png">
@@ -43,7 +43,7 @@
 <h2>Chapter 1.3: Uniqueness Constraints</h2>
 
 <details>
-	<summary>(~20 slides)</summary>
+	<summary>(20 slides)</summary>
 	<br>
 	<img src="chapter1/0027.png">
 	<img src="chapter1/0028.png">
@@ -67,10 +67,10 @@
 	<img src="chapter1/0046.png">
 </details>
 
-## Chapter 2:
+<h2>Chapter 2.1: Membership Constraints</h2>
 
 <details>
-	<summary>(~36 slides)</summary>
+	<summary>(13 slides)</summary>
 	<br>
 	<img src="chapter2/0001.png">
 	<img src="chapter2/0002.png">
@@ -85,6 +85,13 @@
 	<img src="chapter2/0011.png">
 	<img src="chapter2/0012.png">
 	<img src="chapter2/0013.png">
+</details>
+
+<h2>Chapter 2.2: Categorical Variables</h2>
+
+<details>
+	<summary>(12 slides)</summary>
+	<br>
 	<img src="chapter2/0014.png">
 	<img src="chapter2/0015.png">
 	<img src="chapter2/0016.png">
@@ -97,6 +104,13 @@
 	<img src="chapter2/0023.png">
 	<img src="chapter2/0024.png">
 	<img src="chapter2/0025.png">
+</details>
+
+<h2>Chapter 2.3: Clearning Text Data</h2>
+
+<details>
+	<summary>(11 slides)</summary>
+	<br>
 	<img src="chapter2/0026.png">
 	<img src="chapter2/0027.png">
 	<img src="chapter2/0028.png">
@@ -110,10 +124,10 @@
 	<img src="chapter2/0036.png">
 </details>
 
-## Chapter 3:
+<h2>Chapter 3.1: Uniformity</h2>
 
 <details>
-	<summary>(~47 slides)</summary>
+	<summary>(18 slides)</summary>
 	<br>
 	<img src="chapter3/0001.png">
 	<img src="chapter3/0002.png">
@@ -133,6 +147,13 @@
 	<img src="chapter3/0016.png">
 	<img src="chapter3/0017.png">
 	<img src="chapter3/0018.png">
+</details>
+
+<h2>Chapter 3.2: Cross Field Validation</h2>
+
+<details>
+	<summary>(7 slides)</summary>
+	<br>
 	<img src="chapter3/0019.png">
 	<img src="chapter3/0020.png">
 	<img src="chapter3/0021.png">
@@ -140,6 +161,13 @@
 	<img src="chapter3/0023.png">
 	<img src="chapter3/0024.png">
 	<img src="chapter3/0025.png">
+</details>
+
+<h2>Chapter 3.3: Completeness</h2>
+
+<details>
+	<summary>(22 slides)</summary>
+	<br>
 	<img src="chapter3/0026.png">
 	<img src="chapter3/0027.png">
 	<img src="chapter3/0028.png">
@@ -164,10 +192,10 @@
 	<img src="chapter3/0047.png">
 </details>
 
-## Chapter 4:
+<h2>Chapter 4.1: Comparing Strings</h2>
 
 <details>
-	<summary>(~58 slides)</summary>
+	<summary>(18 slides)</summary>
 	<br>
 	<img src="chapter4/0001.png">
 	<img src="chapter4/0002.png">
@@ -187,6 +215,13 @@
 	<img src="chapter4/0016.png">
 	<img src="chapter4/0017.png">
 	<img src="chapter4/0018.png">
+</details>
+
+<h2>Chapter 4.2: Generating Pairs</h2>
+
+<details>
+	<summary>(14 slides)</summary>
+	<br>
 	<img src="chapter4/0019.png">
 	<img src="chapter4/0020.png">
 	<img src="chapter4/0021.png">
@@ -201,6 +236,13 @@
 	<img src="chapter4/0030.png">
 	<img src="chapter4/0031.png">
 	<img src="chapter4/0032.png">
+</details>
+
+<h2>Chapter 4.3: Linking DataFrames</h2>
+
+<details>
+	<summary>(16 slides)</summary>
+	<br>
 	<img src="chapter4/0033.png">
 	<img src="chapter4/0034.png">
 	<img src="chapter4/0035.png">
@@ -217,6 +259,13 @@
 	<img src="chapter4/0046.png">
 	<img src="chapter4/0047.png">
 	<img src="chapter4/0048.png">
+</details>
+
+<h2>Congratulations!</h2>
+
+<details>
+	<summary>(10 slides)</summary>
+	<br>
 	<img src="chapter4/0049.png">
 	<img src="chapter4/0050.png">
 	<img src="chapter4/0051.png">
