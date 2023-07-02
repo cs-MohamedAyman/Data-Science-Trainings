@@ -90,7 +90,7 @@
 <h2>Chapter 2.2: Categorical Variables</h2>
 
 <details>
-	<summary>(12 slides)</summary>
+	<summary>(11 slides)</summary>
 	<br>
 	<img src="chapter2/0014.png">
 	<img src="chapter2/0015.png">
@@ -103,14 +103,14 @@
 	<img src="chapter2/0022.png">
 	<img src="chapter2/0023.png">
 	<img src="chapter2/0024.png">
-	<img src="chapter2/0025.png">
 </details>
 
 <h2>Chapter 2.3: Clearning Text Data</h2>
 
 <details>
-	<summary>(11 slides)</summary>
+	<summary>(12 slides)</summary>
 	<br>
+	<img src="chapter2/0025.png">
 	<img src="chapter2/0026.png">
 	<img src="chapter2/0027.png">
 	<img src="chapter2/0028.png">
