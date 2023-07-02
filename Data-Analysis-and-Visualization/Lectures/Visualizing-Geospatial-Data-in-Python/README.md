@@ -1,7 +1,7 @@
 ## Chapter 1:
 
 <details>
-	<summary>(~40 slides)</summary>
+	<summary>(~26 slides)</summary>
 	<br>
 	<img src="chapter1/0001.png">
 	<img src="chapter1/0002.png">
@@ -29,25 +29,12 @@
 	<img src="chapter1/0024.png">
 	<img src="chapter1/0025.png">
 	<img src="chapter1/0026.png">
-	<img src="chapter1/0027.png">
-	<img src="chapter1/0028.png">
-	<img src="chapter1/0029.png">
-	<img src="chapter1/0030.png">
-	<img src="chapter1/0031.png">
-	<img src="chapter1/0032.png">
-	<img src="chapter1/0033.png">
-	<img src="chapter1/0034.png">
-	<img src="chapter1/0035.png">
-	<img src="chapter1/0036.png">
-	<img src="chapter1/0037.png">
-	<img src="chapter1/0038.png">
-	<img src="chapter1/0039.png">
 </details>
 
 ## Chapter 2:
 
 <details>
-	<summary>(~40 slides)</summary>
+	<summary>(~29 slides)</summary>
 	<br>
 	<img src="chapter2/0001.png">
 	<img src="chapter2/0002.png">
@@ -78,22 +65,12 @@
 	<img src="chapter2/0027.png">
 	<img src="chapter2/0028.png">
 	<img src="chapter2/0029.png">
-	<img src="chapter2/0030.png">
-	<img src="chapter2/0031.png">
-	<img src="chapter2/0032.png">
-	<img src="chapter2/0033.png">
-	<img src="chapter2/0034.png">
-	<img src="chapter2/0035.png">
-	<img src="chapter2/0036.png">
-	<img src="chapter2/0037.png">
-	<img src="chapter2/0038.png">
-	<img src="chapter2/0039.png">
 </details>
 
 ## Chapter 3:
 
 <details>
-	<summary>(~40 slides)</summary>
+	<summary>(~37 slides)</summary>
 	<br>
 	<img src="chapter3/0001.png">
 	<img src="chapter3/0002.png">
@@ -132,14 +109,12 @@
 	<img src="chapter3/0035.png">
 	<img src="chapter3/0036.png">
 	<img src="chapter3/0037.png">
-	<img src="chapter3/0038.png">
-	<img src="chapter3/0039.png">
 </details>
 
 ## Chapter 4:
 
 <details>
-	<summary>(~40 slides)</summary>
+	<summary>(~30 slides)</summary>
 	<br>
 	<img src="chapter4/0001.png">
 	<img src="chapter4/0002.png">
@@ -171,13 +146,4 @@
 	<img src="chapter4/0028.png">
 	<img src="chapter4/0029.png">
 	<img src="chapter4/0030.png">
-	<img src="chapter4/0031.png">
-	<img src="chapter4/0032.png">
-	<img src="chapter4/0033.png">
-	<img src="chapter4/0034.png">
-	<img src="chapter4/0035.png">
-	<img src="chapter4/0036.png">
-	<img src="chapter4/0037.png">
-	<img src="chapter4/0038.png">
-	<img src="chapter4/0039.png">
 </details>

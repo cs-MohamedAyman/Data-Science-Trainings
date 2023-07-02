@@ -1,7 +1,7 @@
 ## Chapter 1:
 
 <details>
-	<summary>(~40 slides)</summary>
+	<summary>(~41 slides)</summary>
 	<br>
 	<img src="chapter1/0001.png">
 	<img src="chapter1/0002.png">
@@ -42,12 +42,14 @@
 	<img src="chapter1/0037.png">
 	<img src="chapter1/0038.png">
 	<img src="chapter1/0039.png">
+	<img src="chapter1/0040.png">
+	<img src="chapter1/0041.png">
 </details>
 
 ## Chapter 2:
 
 <details>
-	<summary>(~40 slides)</summary>
+	<summary>(~73 slides)</summary>
 	<br>
 	<img src="chapter2/0001.png">
 	<img src="chapter2/0002.png">
@@ -88,12 +90,46 @@
 	<img src="chapter2/0037.png">
 	<img src="chapter2/0038.png">
 	<img src="chapter2/0039.png">
+	<img src="chapter2/0040.png">
+	<img src="chapter2/0041.png">
+	<img src="chapter2/0042.png">
+	<img src="chapter2/0043.png">
+	<img src="chapter2/0044.png">
+	<img src="chapter2/0045.png">
+	<img src="chapter2/0046.png">
+	<img src="chapter2/0047.png">
+	<img src="chapter2/0048.png">
+	<img src="chapter2/0049.png">
+	<img src="chapter2/0050.png">
+	<img src="chapter2/0051.png">
+	<img src="chapter2/0052.png">
+	<img src="chapter2/0053.png">
+	<img src="chapter2/0054.png">
+	<img src="chapter2/0055.png">
+	<img src="chapter2/0056.png">
+	<img src="chapter2/0057.png">
+	<img src="chapter2/0058.png">
+	<img src="chapter2/0059.png">
+	<img src="chapter2/0060.png">
+	<img src="chapter2/0061.png">
+	<img src="chapter2/0062.png">
+	<img src="chapter2/0063.png">
+	<img src="chapter2/0064.png">
+	<img src="chapter2/0065.png">
+	<img src="chapter2/0066.png">
+	<img src="chapter2/0067.png">
+	<img src="chapter2/0068.png">
+	<img src="chapter2/0069.png">
+	<img src="chapter2/0070.png">
+	<img src="chapter2/0071.png">
+	<img src="chapter2/0072.png">
+	<img src="chapter2/0073.png">
 </details>
 
 ## Chapter 3:
 
 <details>
-	<summary>(~40 slides)</summary>
+	<summary>(~54 slides)</summary>
 	<br>
 	<img src="chapter3/0001.png">
 	<img src="chapter3/0002.png">
@@ -134,12 +170,27 @@
 	<img src="chapter3/0037.png">
 	<img src="chapter3/0038.png">
 	<img src="chapter3/0039.png">
+	<img src="chapter3/0040.png">
+	<img src="chapter3/0041.png">
+	<img src="chapter3/0042.png">
+	<img src="chapter3/0043.png">
+	<img src="chapter3/0044.png">
+	<img src="chapter3/0045.png">
+	<img src="chapter3/0046.png">
+	<img src="chapter3/0047.png">
+	<img src="chapter3/0048.png">
+	<img src="chapter3/0049.png">
+	<img src="chapter3/0050.png">
+	<img src="chapter3/0051.png">
+	<img src="chapter3/0052.png">
+	<img src="chapter3/0053.png">
+	<img src="chapter3/0054.png">
 </details>
 
 ## Chapter 4:
 
 <details>
-	<summary>(~40 slides)</summary>
+	<summary>(~43 slides)</summary>
 	<br>
 	<img src="chapter4/0001.png">
 	<img src="chapter4/0002.png">
@@ -180,4 +231,8 @@
 	<img src="chapter4/0037.png">
 	<img src="chapter4/0038.png">
 	<img src="chapter4/0039.png">
+	<img src="chapter4/0040.png">
+	<img src="chapter4/0041.png">
+	<img src="chapter4/0042.png">
+	<img src="chapter4/0043.png">
 </details>
