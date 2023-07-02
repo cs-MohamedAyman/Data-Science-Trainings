@@ -48,8 +48,8 @@ Data Science and Business Analytics Training for computer science students.
 <td align=center width="15%"><h3>15<br>Courses</h3></td>
 <td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.png"             width="80%"></img></td>
 <td align=center width="15%"><h3>15<br>Courses</h3></td>
-<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/reference-textbooks.png"  width="80%"></img></td>
-<td align=center width="15%"><h3>15<br>Textbooks</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/datacamp.png"             width="80%"></img></td>
+<td align=center width="15%"><h3>15<br>Courses</h3></td>
         </tr>
     </tbody>
 </table>
