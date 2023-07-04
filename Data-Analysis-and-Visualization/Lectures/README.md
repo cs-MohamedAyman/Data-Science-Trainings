@@ -320,47 +320,47 @@
     <tbody>
         <tr>
             <td rowspan=5 align="center"><a href="https://github.com/cs-MohamedAyman/Data-Science-Trainings/tree/main/Data-Analysis-and-Visualization/Lectures/Introduction-to-Python-for-Finance">Introduction to Python for Finance</a><br></td>
-            <td>Chapter 1: </td>
+            <td>Chapter 1: Welcome to Python</td>
         </tr>
-        <tr><td>Chapter 2: </td></tr>
-        <tr><td>Chapter 3: </td></tr>
-        <tr><td>Chapter 4: </td></tr>
-        <tr><td>Chapter 5: </td></tr>
+        <tr><td>Chapter 2: Lists</td></tr>
+        <tr><td>Chapter 3: Arrays in Python</td></tr>
+        <tr><td>Chapter 4: Visualization in Python</td></tr>
+        <tr><td>Chapter 5: S&P 100 Case Study</td></tr>
         <tr>
             <td rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Data-Science-Trainings/tree/main/Data-Analysis-and-Visualization/Lectures/Intermediate-Python-for-Finance">Intermediate Python for Finance</a><br></td>
-            <td>Chapter 1: </td>
+            <td>Chapter 1: Datetimes and Dictionaries</td>
         </tr>
-        <tr><td>Chapter 2: </td></tr>
-        <tr><td>Chapter 3: </td></tr>
-        <tr><td>Chapter 4: </td></tr>
+        <tr><td>Chapter 2: Control Flow and Logic</td></tr>
+        <tr><td>Chapter 3: Pandas Dataframe</td></tr>
+        <tr><td>Chapter 4: Working with NASDAQ Stock Data</td></tr>
         <tr>
             <td rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Data-Science-Trainings/tree/main/Data-Analysis-and-Visualization/Lectures/Introduction-to-Financial-Concepts-in-Python">Introduction to Financial Concepts in Python</a><br></td>
-            <td>Chapter 1: </td>
+            <td>Chapter 1: The Time Value of Money</td>
         </tr>
-        <tr><td>Chapter 2: </td></tr>
-        <tr><td>Chapter 3: </td></tr>
-        <tr><td>Chapter 4: </td></tr>
+        <tr><td>Chapter 2: Making Data-Driven Financial Decisions</td></tr>
+        <tr><td>Chapter 3: Simulating a Mortgage Loan</td></tr>
+        <tr><td>Chapter 4: Budgeting Application</td></tr>
         <tr>
             <td rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Data-Science-Trainings/tree/main/Data-Analysis-and-Visualization/Lectures/Manipulating-Time-Series-Data-in-Python">Manipulating Time Series Data in Python</a><br></td>
-            <td>Chapter 1: </td>
+            <td>Chapter 1: Working with Time Series in Pandas</td>
         </tr>
-        <tr><td>Chapter 2: </td></tr>
-        <tr><td>Chapter 3: </td></tr>
-        <tr><td>Chapter 4: </td></tr>
+        <tr><td>Chapter 2: Basic Time Series Metrics & Resampling</td></tr>
+        <tr><td>Chapter 3: Window Functions: Rolling & Expanding Metrics</td></tr>
+        <tr><td>Chapter 4: Putting it all together: Building a value-weighted index</td></tr>
         <tr>
             <td rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Data-Science-Trainings/tree/main/Data-Analysis-and-Visualization/Lectures/Importing-and-Managing-Financial-Data-in-Python">Importing and Managing Financial Data in Python</a><br></td>
-            <td>Chapter 1: </td>
+            <td>Chapter 1: Importing stock listing data from Excel</td>
         </tr>
-        <tr><td>Chapter 2: </td></tr>
-        <tr><td>Chapter 3: </td></tr>
-        <tr><td>Chapter 4: </td></tr>
+        <tr><td>Chapter 2: Importing financial data from the web</td></tr>
+        <tr><td>Chapter 3: Summarizing your data and visualizing the result</td></tr>
+        <tr><td>Chapter 4: Aggregating and describing your data by category</td></tr>
         <tr>
             <td rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Data-Science-Trainings/tree/main/Data-Analysis-and-Visualization/Lectures/Introduction-to-Portfolio-Analysis-in-Python">Introduction to Portfolio Analysis in Python</a><br></td>
-            <td>Chapter 1: </td>
+            <td>Chapter 1: Introduction to Portfolio Analysis</td>
         </tr>
-        <tr><td>Chapter 2: </td></tr>
-        <tr><td>Chapter 3: </td></tr>
-        <tr><td>Chapter 4: </td></tr>
+        <tr><td>Chapter 2: Risk and Return</td></tr>
+        <tr><td>Chapter 3: Performance Attribution</td></tr>
+        <tr><td>Chapter 4: Portfolio Optimization</td></tr>
     </tbody>
     </tbody>
 </table>
