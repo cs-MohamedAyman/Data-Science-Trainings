@@ -1,3 +1,5 @@
+<a href="/Data-Analysis-and-Visualization/Lectures/README.md"><img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/lecture-notes.png"></img></a>
+
 # Data Analysis Lecture Notes
 
 ## Python Fundamentals
