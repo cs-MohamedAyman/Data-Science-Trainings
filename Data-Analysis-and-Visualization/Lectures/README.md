@@ -1,5 +1,47 @@
 # Data Analysis Lecture Notes
 
+## Python Fundamentals
+
+<table>
+    <thead>
+        <tr>
+<th width="400px">Courses</th>
+<th width="800px">Chapters</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4 align="center"><a href="https">Introduction to Python</a><br></td>
+            <td>Chapter 1:</td>
+        </tr>
+        <tr><td>Chapter 2:</td></tr>
+        <tr><td>Chapter 3:</td></tr>
+        <tr><td>Chapter 4:</td></tr>
+        <tr>
+            <td rowspan=4 align="center"><a href="https">Intermediate Python</a><br></td>
+            <td>Chapter 1:</td>
+        </tr>
+        <tr><td>Chapter 2:</td></tr>
+        <tr><td>Chapter 3:</td></tr>
+        <tr><td>Chapter 4:</td></tr>
+        <tr>
+            <td rowspan=4 align="center"><a href="https">Python Data Science Toolbox (Part 1)</a><br></td>
+            <td>Chapter 1:</td>
+        </tr>
+        <tr><td>Chapter 2:</td></tr>
+        <tr><td>Chapter 3:</td></tr>
+        <tr><td>Chapter 4:</td></tr>
+        <tr>
+            <td rowspan=4 align="center"><a href="https">Python Data Science Toolbox (Part 2)</a><br></td>
+            <td>Chapter 1:</td>
+        </tr>
+        <tr><td>Chapter 2:</td></tr>
+        <tr><td>Chapter 3:</td></tr>
+        <tr><td>Chapter 4:</td></tr>
+    </tbody>
+    </tbody>
+</table>
+
 ## Python Programming
 
 <table>
@@ -52,48 +94,6 @@
         <tr><td>Chapter 2:</td></tr>
         <tr><td>Chapter 3:</td></tr>
         <tr><td>Chapter 4:</td></tr>
-    </tbody>
-</table>
-
-## Python Fundamentals
-
-<table>
-    <thead>
-        <tr>
-<th width="400px">Courses</th>
-<th width="800px">Chapters</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=4 align="center"><a href="https">Introduction to Python</a><br></td>
-            <td>Chapter 1:</td>
-        </tr>
-        <tr><td>Chapter 2:</td></tr>
-        <tr><td>Chapter 3:</td></tr>
-        <tr><td>Chapter 4:</td></tr>
-        <tr>
-            <td rowspan=4 align="center"><a href="https">Intermediate Python</a><br></td>
-            <td>Chapter 1:</td>
-        </tr>
-        <tr><td>Chapter 2:</td></tr>
-        <tr><td>Chapter 3:</td></tr>
-        <tr><td>Chapter 4:</td></tr>
-        <tr>
-            <td rowspan=4 align="center"><a href="https">Python Data Science Toolbox (Part 1)</a><br></td>
-            <td>Chapter 1:</td>
-        </tr>
-        <tr><td>Chapter 2:</td></tr>
-        <tr><td>Chapter 3:</td></tr>
-        <tr><td>Chapter 4:</td></tr>
-        <tr>
-            <td rowspan=4 align="center"><a href="https">Python Data Science Toolbox (Part 2)</a><br></td>
-            <td>Chapter 1:</td>
-        </tr>
-        <tr><td>Chapter 2:</td></tr>
-        <tr><td>Chapter 3:</td></tr>
-        <tr><td>Chapter 4:</td></tr>
-    </tbody>
     </tbody>
 </table>
 
