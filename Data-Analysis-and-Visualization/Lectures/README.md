@@ -5,8 +5,8 @@
 <table>
     <thead>
         <tr>
-<th width="30%">Courses</th>
-<th width="70%">Chapters</th>
+<th width="400px">Courses</th>
+<th width="800px">Chapters</th>
         </tr>
     </thead>
     <tbody>
@@ -60,8 +60,8 @@
 <table>
     <thead>
         <tr>
-<th width="30%">Courses</th>
-<th width="70%">Chapters</th>
+<th width="400px">Courses</th>
+<th width="800px">Chapters</th>
         </tr>
     </thead>
     <tbody>
@@ -102,8 +102,8 @@
 <table>
     <thead>
         <tr>
-<th width="30%">Courses</th>
-<th width="70%">Chapters</th>
+<th width="400px">Courses</th>
+<th width="800px">Chapters</th>
         </tr>
     </thead>
     <tbody>
@@ -143,8 +143,8 @@
 <table>
     <thead>
         <tr>
-<th width="30%">Courses</th>
-<th width="70%">Chapters</th>
+<th width="400px">Courses</th>
+<th width="800px">Chapters</th>
         </tr>
     </thead>
     <tbody>
@@ -184,8 +184,8 @@
 <table>
     <thead>
         <tr>
-<th width="30%">Courses</th>
-<th width="70%">Chapters</th>
+<th width="400px">Courses</th>
+<th width="800px">Chapters</th>
         </tr>
     </thead>
     <tbody>
@@ -225,8 +225,8 @@
 <table>
     <thead>
         <tr>
-<th width="30%">Courses</th>
-<th width="70%">Chapters</th>
+<th width="400px">Courses</th>
+<th width="800px">Chapters</th>
         </tr>
     </thead>
     <tbody>
@@ -266,8 +266,8 @@
 <table>
     <thead>
         <tr>
-<th width="30%">Courses</th>
-<th width="70%">Chapters</th>
+<th width="400px">Courses</th>
+<th width="800px">Chapters</th>
         </tr>
     </thead>
     <tbody>
@@ -307,8 +307,8 @@
 <table>
     <thead>
         <tr>
-<th width="30%">Courses</th>
-<th width="70%">Chapters</th>
+<th width="400px">Courses</th>
+<th width="800px">Chapters</th>
         </tr>
     </thead>
     <tbody>
