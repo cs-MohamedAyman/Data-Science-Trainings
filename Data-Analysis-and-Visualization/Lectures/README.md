@@ -148,21 +148,21 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4 align="center"><a href="https">Dealing with Missing Data in Python</a><br></td>
+            <td rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Data-Science-Trainings/tree/main/Data-Analysis-and-Visualization/Lectures/Dealing-with-Missing-Data-in-Python">Dealing with Missing Data in Python</a><br></td>
             <td>Chapter 1: The Problem With Missing Data</td>
         </tr>
         <tr><td>Chapter 2: Does Missingness Have A Pattern?</td></tr>
         <tr><td>Chapter 3: Imputation Techniques</td></tr>
         <tr><td>Chapter 4: Advanced Imputation Techniques</td></tr>
         <tr>
-            <td rowspan=4 align="center"><a href="https">Working with Dates and Times in Python</a><br></td>
+            <td rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Data-Science-Trainings/tree/main/Data-Analysis-and-Visualization/Lectures/Working-with-Dates-and-Times-in-Python">Working with Dates and Times in Python</a><br></td>
             <td>Chapter 1: Dates and Calendars</td>
         </tr>
         <tr><td>Chapter 2: Combining Dates and Times</td></tr>
         <tr><td>Chapter 3: Time Zones and Daylight Saving</td></tr>
         <tr><td>Chapter 4: Easy and Powerful: Dates and Times in Pandas</td></tr>
         <tr>
-            <td rowspan=4 align="center"><a href="https">Regular Expressions in Python</a><br></td>
+            <td rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Data-Science-Trainings/tree/main/Data-Analysis-and-Visualization/Lectures/Regular-Expressions-in-Python">Regular Expressions in Python</a><br></td>
             <td>Chapter 1: Basic Concepts of String Manipulation</td>
         </tr>
         <tr><td>Chapter 2: Formatting Strings</td></tr>
