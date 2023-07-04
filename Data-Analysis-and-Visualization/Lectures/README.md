@@ -307,3 +307,60 @@
         <tr><td>Chapter 4: Non-Parametric Tests</td></tr>
     </tbody>
 </table>
+
+## Finance Fundamentals in Python
+
+<table>
+    <thead>
+        <tr>
+<th width="400px">Courses</th>
+<th width="800px">Chapters</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=5 align="center"><a href="https://github.com/cs-MohamedAyman/Data-Science-Trainings/tree/main/Data-Analysis-and-Visualization/Lectures/Introduction-to-Python-for-Finance">Introduction to Python for Finance</a><br></td>
+            <td>Chapter 1: </td>
+        </tr>
+        <tr><td>Chapter 2: </td></tr>
+        <tr><td>Chapter 3: </td></tr>
+        <tr><td>Chapter 4: </td></tr>
+        <tr><td>Chapter 5: </td></tr>
+        <tr>
+            <td rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Data-Science-Trainings/tree/main/Data-Analysis-and-Visualization/Lectures/Intermediate-Python-for-Finance">Intermediate Python for Finance</a><br></td>
+            <td>Chapter 1: </td>
+        </tr>
+        <tr><td>Chapter 2: </td></tr>
+        <tr><td>Chapter 3: </td></tr>
+        <tr><td>Chapter 4: </td></tr>
+        <tr>
+            <td rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Data-Science-Trainings/tree/main/Data-Analysis-and-Visualization/Lectures/Introduction-to-Financial-Concepts-in-Python">Introduction to Financial Concepts in Python</a><br></td>
+            <td>Chapter 1: </td>
+        </tr>
+        <tr><td>Chapter 2: </td></tr>
+        <tr><td>Chapter 3: </td></tr>
+        <tr><td>Chapter 4: </td></tr>
+        <tr>
+            <td rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Data-Science-Trainings/tree/main/Data-Analysis-and-Visualization/Lectures/Manipulating-Time-Series-Data-in-Python">Manipulating Time Series Data in Python</a><br></td>
+            <td>Chapter 1: </td>
+        </tr>
+        <tr><td>Chapter 2: </td></tr>
+        <tr><td>Chapter 3: </td></tr>
+        <tr><td>Chapter 4: </td></tr>
+        <tr>
+            <td rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Data-Science-Trainings/tree/main/Data-Analysis-and-Visualization/Lectures/Importing-and-Managing-Financial-Data-in-Python">Importing and Managing Financial Data in Python</a><br></td>
+            <td>Chapter 1: </td>
+        </tr>
+        <tr><td>Chapter 2: </td></tr>
+        <tr><td>Chapter 3: </td></tr>
+        <tr><td>Chapter 4: </td></tr>
+        <tr>
+            <td rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Data-Science-Trainings/tree/main/Data-Analysis-and-Visualization/Lectures/Introduction-to-Portfolio-Analysis-in-Python">Introduction to Portfolio Analysis in Python</a><br></td>
+            <td>Chapter 1: </td>
+        </tr>
+        <tr><td>Chapter 2: </td></tr>
+        <tr><td>Chapter 3: </td></tr>
+        <tr><td>Chapter 4: </td></tr>
+    </tbody>
+    </tbody>
+</table>
