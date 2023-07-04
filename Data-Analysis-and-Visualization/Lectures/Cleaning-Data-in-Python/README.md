@@ -1,6 +1,7 @@
 <h1>Cleaning Data in Python</h1>
 
-<h2>Chapter 1.1: Data Type Constraints</h2>
+<h2>Chapter 1: Common data problems</h2>
+<h3>Chapter 1.1: Data Type Constraints</h3>
 
 <details>
 	<summary>(16 slides)</summary>
@@ -23,7 +24,7 @@
 	<img src="chapter1/0016.png">
 </details>
 
-<h2>Chapter 1.2: Data Range Constraints</h2>
+<h3>Chapter 1.2: Data Range Constraints</h3>
 
 <details>
 	<summary>(10 slides)</summary>
@@ -40,7 +41,7 @@
 	<img src="chapter1/0026.png">
 </details>
 
-<h2>Chapter 1.3: Uniqueness Constraints</h2>
+<h3>Chapter 1.3: Uniqueness Constraints</h3>
 
 <details>
 	<summary>(20 slides)</summary>
@@ -67,7 +68,8 @@
 	<img src="chapter1/0046.png">
 </details>
 
-<h2>Chapter 2.1: Membership Constraints</h2>
+<h2>Chapter 2: Text and categorical data problems</h2>
+<h3>Chapter 2.1: Membership Constraints</h3>
 
 <details>
 	<summary>(13 slides)</summary>
@@ -87,7 +89,7 @@
 	<img src="chapter2/0013.png">
 </details>
 
-<h2>Chapter 2.2: Categorical Variables</h2>
+<h3>Chapter 2.2: Categorical Variables</h3>
 
 <details>
 	<summary>(11 slides)</summary>
@@ -105,7 +107,7 @@
 	<img src="chapter2/0024.png">
 </details>
 
-<h2>Chapter 2.3: Clearning Text Data</h2>
+<h3>Chapter 2.3: Clearning Text Data</h3>
 
 <details>
 	<summary>(12 slides)</summary>
@@ -124,7 +126,8 @@
 	<img src="chapter2/0036.png">
 </details>
 
-<h2>Chapter 3.1: Uniformity</h2>
+<h2>Chapter 3: Advanced data problems</h2>
+<h3>Chapter 3.1: Uniformity</h3>
 
 <details>
 	<summary>(18 slides)</summary>
@@ -149,7 +152,7 @@
 	<img src="chapter3/0018.png">
 </details>
 
-<h2>Chapter 3.2: Cross Field Validation</h2>
+<h3>Chapter 3.2: Cross Field Validation</h3>
 
 <details>
 	<summary>(7 slides)</summary>
@@ -163,7 +166,7 @@
 	<img src="chapter3/0025.png">
 </details>
 
-<h2>Chapter 3.3: Completeness</h2>
+<h3>Chapter 3.3: Completeness</h3>
 
 <details>
 	<summary>(22 slides)</summary>
@@ -192,7 +195,8 @@
 	<img src="chapter3/0047.png">
 </details>
 
-<h2>Chapter 4.1: Comparing Strings</h2>
+<h2>Chapter 4: Record linkage</h2>
+<h3>Chapter 4.1: Comparing Strings</h3>
 
 <details>
 	<summary>(18 slides)</summary>
@@ -217,7 +221,7 @@
 	<img src="chapter4/0018.png">
 </details>
 
-<h2>Chapter 4.2: Generating Pairs</h2>
+<h3>Chapter 4.2: Generating Pairs</h3>
 
 <details>
 	<summary>(14 slides)</summary>
@@ -238,7 +242,7 @@
 	<img src="chapter4/0032.png">
 </details>
 
-<h2>Chapter 4.3: Linking DataFrames</h2>
+<h3>Chapter 4.3: Linking DataFrames</h3>
 
 <details>
 	<summary>(16 slides)</summary>
@@ -261,7 +265,7 @@
 	<img src="chapter4/0048.png">
 </details>
 
-<h2>Congratulations!</h2>
+<h3>Congratulations!</h3>
 
 <details>
 	<summary>(10 slides)</summary>
