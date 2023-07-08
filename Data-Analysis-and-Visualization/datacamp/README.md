@@ -2,6 +2,8 @@
 
 # Data Analysis and Visualizations DataCamp Tracks
 
+<br><br>
+
 ## Python Fundamentals
 
 <table>
