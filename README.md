@@ -23,10 +23,10 @@
     </tbody>
     <tbody>
         <tr>
-<td align="center"><a href="/data-science-and-business-analytics.md">Data Science and Business Analytics Training</a><br><br>
-<a href="/data-science-and-business-analytics.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/data-science.png"></img></a>
-<a href="/data-science-and-business-analytics.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/computer-modeling.png"></img></a>
-<a href="/data-science-and-business-analytics.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/business-analytics.png"></img></a>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Data-Science-and-Business-Analytics/blob/master/README.md">Data Science and Business Analytics Training</a><br><br>
+<a href="https://github.com/cs-MohamedAyman/Data-Science-and-Business-Analytics/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/data-science.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Science-and-Business-Analytics/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/computer-modeling.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Science-and-Business-Analytics/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/business-analytics.png"></img></a>
 </td>
 <td align="center"><a href="/business-intelligence-and-data-management.md">Business Intelligence and Data Management Training</a><br><br>
 <a href="/business-intelligence-and-data-management.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/data-modeling.png"></img></a>
@@ -36,7 +36,7 @@
         </tr>
     </tbody>
     <tbody>
-<td align="center"><a href="/data-science-and-business-analytics.md">      <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-covers/4-3.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Data-Science-and-Business-Analytics/blob/master/README.md">      <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-covers/4-3.png"></img></a></td>
 <td align="center"><a href="/business-intelligence-and-data-management.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-covers/4-4.png"></img></a></td>
     </tbody>
     <tbody>
