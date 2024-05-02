@@ -10,16 +10,16 @@
 <a href="/programming-languages-for-data-science.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/scala.png"></img></a>
 <a href="/programming-languages-for-data-science.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/julia.png"></img></a>
 </td>
-<td align="center"><a href="/data-analysis-and-visualization.md">Data Analysis and Visualization Training</a><br><br>
-<a href="/data-analysis-and-visualization.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/data-analysis.png"></img></a>
-<a href="/data-analysis-and-visualization.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/data-visualization.png"></img></a>
-<a href="/data-analysis-and-visualization.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/data-analytics.png"></img></a>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Data-Analysis-and-Visualization/blob/master/README.md">Data Analysis and Visualization Training</a><br><br>
+<a href="https://github.com/cs-MohamedAyman/Data-Analysis-and-Visualization/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/data-analysis.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Analysis-and-Visualization/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/data-visualization.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Analysis-and-Visualization/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/data-analytics.png"></img></a>
 </td>
         </tr>
     </tbody>
     <tbody>
 <td align="center"><a href="/programming-languages-for-data-science.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-covers/4-2.png"></img></a></td>
-<td align="center"><a href="/data-analysis-and-visualization.md">       <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-covers/4-1.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Data-Analysis-and-Visualization/blob/master/README.md">       <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-covers/4-1.png"></img></a></td>
     </tbody>
     <tbody>
         <tr>
