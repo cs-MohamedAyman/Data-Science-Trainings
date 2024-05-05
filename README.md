@@ -46,7 +46,7 @@
 <a href="/data-storage-and-retrieval.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-storage.png"></img></a>
 <a href="/data-storage-and-retrieval.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/distributed-database.png"></img></a>
 </td>
-<td align="center"><a href="/continuous-delivery-and-mlops.md">Continuous Delivery and MLops Training</a><br><br>
+<td align="center"><a href="/continuous-delivery-and-mlops.md">Continuous Delivery and MLOps Training</a><br><br>
 <a href="/continuous-delivery-and-mlops.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/systems-development-methodologies.png"></img></a>
 <a href="/continuous-delivery-and-mlops.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/mlops.png"></img></a>
 <a href="/continuous-delivery-and-mlops.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cloud-computing.png"></img></a>
