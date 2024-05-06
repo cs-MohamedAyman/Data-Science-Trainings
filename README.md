@@ -10,10 +10,10 @@
 <a href="/programming-languages-for-data-science.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/scala.png"></img></a>
 <a href="/programming-languages-for-data-science.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/julia.png"></img></a>
 </td>
-<td align="center"><a href="/data-analysis-and-visualization.md">Data Analysis and Visualization Training</a><br><br>
-<a href="/data-analysis-and-visualization.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-analysis.png"></img></a>
-<a href="/data-analysis-and-visualization.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-visualization.png"></img></a>
-<a href="/data-analysis-and-visualization.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-analytics.png"></img></a>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Data-Analysis-and-Visualization/blob/master/README.md">Data Analysis and Visualization Training</a><br><br>
+<a href="https://github.com/cs-MohamedAyman/Data-Analysis-and-Visualization/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-analysis.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Analysis-and-Visualization/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-visualization.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Analysis-and-Visualization/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-analytics.png"></img></a>
 </td>
         </tr>
     </tbody>
@@ -23,10 +23,10 @@
     </tbody>
     <tbody>
         <tr>
-<td align="center"><a href="/data-science-and-business-analytics.md">Data Science and Business Analytics Training</a><br><br>
-<a href="/data-science-and-business-analytics.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-science.png"></img></a>
-<a href="/data-science-and-business-analytics.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/computer-modeling.png"></img></a>
-<a href="/data-science-and-business-analytics.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/business-analytics.png"></img></a>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Data-Science-and-Business-Analytics/blob/master/README.md">Data Science and Business Analytics Training</a><br><br>
+<a href="https://github.com/cs-MohamedAyman/Data-Science-and-Business-Analytics/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-science.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Science-and-Business-Analytics/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/computer-modeling.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Science-and-Business-Analytics/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/business-analytics.png"></img></a>
 </td>
 <td align="center"><a href="/business-intelligence-and-data-management.md">Business Intelligence and Data Management Training</a><br><br>
 <a href="/business-intelligence-and-data-management.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-modeling.png"></img></a>
