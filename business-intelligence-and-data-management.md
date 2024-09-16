@@ -32,3 +32,12 @@ Business Intelligence and Data Management Training for computer science students
 
 ## [`Udemy Courses`](https://github.com/cs-MohamedAyman/elearning-platforms/blob/master/udemy-courses/data-science/README.md)
 
+<br>
+<a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/deeplearningai-specializations/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/deeplearningai.png"></img></a>
+
+## [`DeepLearning.AI Specializations`](https://github.com/cs-MohamedAyman/elearning-platforms/blob/master/deeplearningai-specializations/README.md)
+
+<br>
+<a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/google-specializations/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/google-cloud.png"></img></a>
+
+## [`Google Specializations`](https://github.com/cs-MohamedAyman/elearning-platforms/blob/master/google-specializations/README.md)
