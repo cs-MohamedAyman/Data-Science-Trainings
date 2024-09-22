@@ -8,9 +8,9 @@
 Programming Languages for Data Science Training for computer science students.
 
 <br>
-<a href="https://github.com/cs-MohamedAyman/elearning-platforms/blob/master/youtube-playlists/data-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/youtube.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/elearning-platforms/blob/master/youtube-playlists/data-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/youtube.png"></img></a>
 
-## [`YouTube Playlists`](https://github.com/cs-MohamedAyman/elearning-platforms/blob/master/youtube-playlists/data-science/README.md)
+## [`YouTube Playlists`](https://github.com/cs-MohamedAyman/elearning-platforms/blob/master/youtube-playlists/data-science.md)
 
 <br>
 <a href="https://github.com/cs-MohamedAyman/elearning-platforms/blob/master/freecodecamp-courses/data-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/freecodecamp.png"></img></a>
