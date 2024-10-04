@@ -11,7 +11,7 @@
 <th width="270px">Traning Logo</th>
 <th width="270px">Traning Name</th>
 <th width="360px">Course Names</th>
-<th width="30px">Hrs <br> per Course</th>
+<th width="30px">Hrs</th>
         </tr>
     </thead>
     <tbody>
@@ -28,7 +28,7 @@
     <a href="/programming-languages-for-data-science.md">Programming Languages for Data Science Training</a>
 </td>
 <td align="left">R Programming Language</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">Scala Programming Language</td>
@@ -49,7 +49,7 @@
     <a href="/data-analysis-and-visualization.md">Data Analysis and Visualization Training</a>
 </td>
 <td align="left">Data Analysis</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">Data Visualization</td>
@@ -70,7 +70,7 @@
     <a href="/data-science-and-business-analytics.md">Data Science and Business Analytics Training</a>
 </td>
 <td align="left">Data Science</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">Computer Modeling</td>
@@ -91,7 +91,7 @@
     <a href="/business-intelligence-and-data-management.md">Business Intelligence and Data Management Training</a>
 </td>
 <td align="left">Data Modeling and Design</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">Data Management</td>
@@ -112,7 +112,7 @@
     <a href="/data-storage-and-retrieval.md">Data Storage and Retrieval Training</a>
 </td>
 <td align="left">File Organization and Processing</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">Data Storage and Retrieval</td>
@@ -133,7 +133,7 @@
     <a href="/continuous-delivery-and-mlops.md">Continuous Delivery and MLOps Training</a>
 </td>
 <td align="left">Systems Development Methodologies</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">Continuous Delivery and MLOps</td>
@@ -154,7 +154,7 @@
     <a href="/data-engineering.md">Data Engineering Training</a>
 </td>
 <td align="left">Cloud Database</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">Data Governance</td>
@@ -175,7 +175,7 @@
     <a href="/big-data-analytics-and-modeling.md">Big Data Analytics and Modeling Training</a>
 </td>
 <td align="left">Big Data Analytics</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">Big Data Modeling</td>
